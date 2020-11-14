@@ -1,0 +1,13 @@
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\obj\Debug\netcoreapp3.1\Lab04.csprojAssemblyReference.cache
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfoInputs.cache
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfo.cs
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.CoreCompileInputs.cache
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\bin\Debug\netcoreapp3.1\Lab04.exe
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\bin\Debug\netcoreapp3.1\Lab04.deps.json
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.json
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.dev.json
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\bin\Debug\netcoreapp3.1\Lab04.dll
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\bin\Debug\netcoreapp3.1\Lab04.pdb
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\obj\Debug\netcoreapp3.1\Lab04.dll
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\obj\Debug\netcoreapp3.1\Lab04.pdb
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Concurrency\Lab04\obj\Debug\netcoreapp3.1\Lab04.genruntimeconfig.cache

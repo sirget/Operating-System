@@ -1,0 +1,13 @@
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\obj\Debug\netcoreapp3.1\lab02.csprojAssemblyReference.cache
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\obj\Debug\netcoreapp3.1\lab02.AssemblyInfoInputs.cache
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\obj\Debug\netcoreapp3.1\lab02.AssemblyInfo.cs
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.CoreCompileInputs.cache
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\bin\Debug\netcoreapp3.1\lab02.exe
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\bin\Debug\netcoreapp3.1\lab02.deps.json
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\bin\Debug\netcoreapp3.1\lab02.runtimeconfig.json
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\bin\Debug\netcoreapp3.1\lab02.runtimeconfig.dev.json
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\bin\Debug\netcoreapp3.1\lab02.dll
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\bin\Debug\netcoreapp3.1\lab02.pdb
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\obj\Debug\netcoreapp3.1\lab02.dll
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\obj\Debug\netcoreapp3.1\lab02.pdb
+D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab02\obj\Debug\netcoreapp3.1\lab02.genruntimeconfig.cache
