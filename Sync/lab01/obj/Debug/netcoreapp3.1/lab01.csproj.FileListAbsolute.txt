@@ -11,3 +11,16 @@ D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.cspr
 D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.dll
 D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.pdb
 D:\OneDrive - KMITL\CE-KMITL\3D\OS\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.genruntimeconfig.cache
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\bin\Debug\netcoreapp3.1\lab01.exe
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\bin\Debug\netcoreapp3.1\lab01.deps.json
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\bin\Debug\netcoreapp3.1\lab01.runtimeconfig.json
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\bin\Debug\netcoreapp3.1\lab01.runtimeconfig.dev.json
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\bin\Debug\netcoreapp3.1\lab01.dll
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\bin\Debug\netcoreapp3.1\lab01.pdb
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.csprojAssemblyReference.cache
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.AssemblyInfoInputs.cache
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.AssemblyInfo.cs
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.csproj.CoreCompileInputs.cache
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.dll
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.pdb
+C:\Users\Pnach\Documents\GitHub\Operating-System\Sync\lab01\obj\Debug\netcoreapp3.1\lab01.genruntimeconfig.cache

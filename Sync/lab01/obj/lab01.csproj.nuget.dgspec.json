@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - KMITL\\CE-KMITL\\3D\\OS\\Sync\\lab01\\lab01.csproj": {}
+    "C:\\Users\\Pnach\\Documents\\GitHub\\Operating-System\\Sync\\lab01\\lab01.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - KMITL\\CE-KMITL\\3D\\OS\\Sync\\lab01\\lab01.csproj": {
+    "C:\\Users\\Pnach\\Documents\\GitHub\\Operating-System\\Sync\\lab01\\lab01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - KMITL\\CE-KMITL\\3D\\OS\\Sync\\lab01\\lab01.csproj",
+        "projectUniqueName": "C:\\Users\\Pnach\\Documents\\GitHub\\Operating-System\\Sync\\lab01\\lab01.csproj",
         "projectName": "lab01",
-        "projectPath": "D:\\OneDrive - KMITL\\CE-KMITL\\3D\\OS\\Sync\\lab01\\lab01.csproj",
+        "projectPath": "C:\\Users\\Pnach\\Documents\\GitHub\\Operating-System\\Sync\\lab01\\lab01.csproj",
         "packagesPath": "C:\\Users\\Pnach\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - KMITL\\CE-KMITL\\3D\\OS\\Sync\\lab01\\obj\\",
+        "outputPath": "C:\\Users\\Pnach\\Documents\\GitHub\\Operating-System\\Sync\\lab01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pnach\\AppData\\Roaming\\NuGet\\NuGet.Config"
